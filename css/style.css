@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Licorice&family=Moon+Dance&family=Poppins:wght@100&family=Roboto+Condensed:ital@1&family=Roboto:wght@500&family=Ubuntu:wght@300&display=swap');
+
+body{
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Licorice', cursive;
+    font-family: 'Moon Dance', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.home-color{
+    color: #04B200;
+}
+.lets-get-start-btn{
+    color:#282C6D;
+}
+
+.rectangular-brown {
+    height: 100px;
+    width: 100px;
+    background-color: #FFE9D6;
+    border-radius: 10px;
+}
+.rectangular-green{
+    height: 100px;
+    width: 100px;
+    background-color: #EAFFE7;
+    border-radius: 10px;
+}
+.rectangular-yellow{
+    height: 100px;
+    width: 100px;
+    background-color: #EAFFE7;
+    border-radius: 10px;
+}
+.img-sizing{
+    margin-top: 25px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 25px;
+}
