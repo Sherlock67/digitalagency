@@ -41,3 +41,19 @@ body{
     margin-right: 30px;
     margin-bottom: 25px;
 }
+
+.resize{
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.rating{
+  display: flex;
+  align-items: center;
+  font-size: 15px;
+  color: rgb(180, 160, 160);
+}
+.rate{
+    margin-right: 10px;
+    color: #fb8200;
+}
